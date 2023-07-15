@@ -50,7 +50,7 @@ def load_data(src_dir , val_ratio = 0.25):
             dst = data_set + dst_dir + 'chines/'  + img
             copyfile(main, dst)
 
-#load_data('/Users/heidikonswah/Desktop/data/old_data',0.25)
+
 
 train_dir = 'data_set/train'
 test_dir = 'data_set/test'
