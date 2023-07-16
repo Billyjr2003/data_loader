@@ -73,9 +73,3 @@ for img, lbl in generator:
     # Do something with the pillow images here.
 ```
 
-You can see the full class definition here:
-
-- [`GeneratorFromDict`](trdg/generators/from_dict.py)
-- [`GeneratorFromRandom`](trdg/generators/from_random.py)
-- [`GeneratorFromStrings`](trdg/generators/from_strings.py)
-- [`GeneratorFromWikipedia`](trdg/generators/from_wikipedia.py)
